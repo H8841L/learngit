@@ -1,2 +1,3 @@
-hallo word!
-nice day!
+lily say : "hallo word!"
+lucy said: "nice day!"
+add jack is a good boy!
