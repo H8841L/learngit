@@ -1,3 +1,6 @@
 lily say : "hallo word!"
 lucy said: "nice day!"
 add jack is a good boy!
+nice to meet you!
+how are you!
+I am fine and you?
